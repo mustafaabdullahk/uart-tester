@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_class_serial___communication_1_1_form1">
+<title>Serial_Communication.Form1 Class Reference</title>
+<indexterm><primary>Serial_Communication.Form1</primary></indexterm>
+<para>Inheritance diagram for Serial_Communication.Form1:    <informalfigure>
+        <mediaobject>
+            <imageobject>
+                <imagedata width="50%" align="center" valign="middle" scalefit="0" fileref="class_serial___communication_1_1_form1.png"></imagedata>
+            </imageobject>
+        </mediaobject>
+    </informalfigure>
+</para>
+<simplesect>
+    <title>Public Member Functions    </title>
+        <itemizedlist>
+            <listitem><para><link linkend="_class_serial___communication_1_1_form1_1ac146f57413aca0307ac50b53652cc566">Form1</link> ()</para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<simplesect>
+    <title>Protected Member Functions    </title>
+        <itemizedlist>
+            <listitem><para>override void <link linkend="_class_serial___communication_1_1_form1_1a3f6b5ae451c7fb33e4272d9ab7f31b1b">Dispose</link> (bool disposing)</para>
+
+<para>Clean up any resources being used. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+<section>
+<title>Constructor &amp; Destructor Documentation</title>
+<anchor xml:id="_class_serial___communication_1_1_form1_1ac146f57413aca0307ac50b53652cc566"/>    <section>
+    <title>Form1()</title>
+<indexterm><primary>Form1</primary><secondary>Serial_Communication.Form1</secondary></indexterm>
+<indexterm><primary>Serial_Communication.Form1</primary><secondary>Form1</secondary></indexterm>
+<para><computeroutput>Serial_Communication.Form1.Form1 ( )<computeroutput>[inline]</computeroutput></computeroutput></para></section>
+</section>
+<section>
+<title>Member Function Documentation</title>
+<anchor xml:id="_class_serial___communication_1_1_form1_1a3f6b5ae451c7fb33e4272d9ab7f31b1b"/>    <section>
+    <title>Dispose()</title>
+<indexterm><primary>Dispose</primary><secondary>Serial_Communication.Form1</secondary></indexterm>
+<indexterm><primary>Serial_Communication.Form1</primary><secondary>Dispose</secondary></indexterm>
+<para><computeroutput>override void Serial_Communication.Form1.Dispose (bool disposing)<computeroutput>[inline]</computeroutput>, <computeroutput>[protected]</computeroutput></computeroutput></para><para>
+
+<para>Clean up any resources being used. </para>
+</para>
+
+<para>
+                <formalpara>
+                    <title>
+Parameters                    </title>
+                    <para>
+                    <table frame="all">
+                        <tgroup cols="2" align="left" colsep="1" rowsep="1">
+                        <colspec colwidth="1*"/>
+                        <colspec colwidth="4*"/>
+                        <tbody>
+                            <row>
+                                <entry>disposing</entry>
+                                <entry>
+<para>true if managed resources should be disposed; otherwise, false.</para>
+</entry>
+                            </row>
+                        </tbody>
+                        </tgroup>
+                    </table>
+                    </para>
+                </formalpara>
+                </para>
+</section>
+<para>
+The documentation for this class was generated from the following files:</para>
+<link linkend="__form1_8cs">Form1.cs</link><link linkend="__form1_8_designer_8cs">Form1.Designer.cs</link></section>
+</section>
